@@ -14,6 +14,8 @@ images = []
 masks = []
 labels=[]
 
+#aleyna yarennnnn
+
 for file in image_files:
     # Görüntü yükleme
 
